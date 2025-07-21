@@ -9,7 +9,7 @@
 
 <br clear="both">
 
-<img align="right" height="156" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmx5YzRkcGZnMWw5Mnd3eXFscWx2NW43dmh2dGFjYmJzZDE0d2R5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLolp8dtrYCJi/giphy.gif"  />
+<img align="right" height="198" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExejk3dGhnMndnc3JxaXpueTZiZjg5MHZvOTc2cm03bzZubzZ1aDJrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RPwrO4b46mOdy/giphy.gif"  />
 
 ###
 
@@ -55,14 +55,9 @@
   <a href="https://www.linkedin.com/in/manojprakashj/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
+  <a href="https://tryhackme.com/p/manojprakashj" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+  </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manojprakashj/manojprakashj/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manojprakashj/manojprakashj/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/manojprakashj/manojprakashj/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
