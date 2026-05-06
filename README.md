@@ -18,7 +18,7 @@
 
 | Metric | Detail |
 |---|---|
-| Platform ranking | Top 1% globally on Hack The Box (#200) and TryHackMe (#2200) |
+| Platform ranking | Top 1% globally on Hack The Box (#150) and TryHackMe (#2100) |
 | Labs completed | 700+ across HTB and THM over 3 years |
 | CTF | Pentathon 2025, 17 of 20 flags, 126th of 1,400 teams |
 | Experience | Cybersecurity Analyst Intern, ISAN Data Systems (Dec 2023 to Feb 2024) |
