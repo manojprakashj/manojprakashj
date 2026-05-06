@@ -1,6 +1,6 @@
-<h2 align="center">Manoj Prakash J</h2>
+<h1 align="center">Manoj Prakash J</h1>
 
-<p align="center">Penetration Tester and SOC Analyst  |  MCA Information Security, JAIN University  |  Bangalore, India</p>
+<p align="center">Penetration Tester and SOC Analyst </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/CRTO-c0392b?style=flat-square&logoColor=white" />
@@ -13,16 +13,16 @@
 </p>
 
 <p align="center">
-  <a href="https://app.hackthebox.com/users/1740474">
+  <a href="https://app.hackthebox.com/users/1740474" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Hack%20The%20Box-9FFF00?style=for-the-badge&logo=hackthebox&logoColor=black" height="30" />
   </a>
-  <a href="https://tryhackme.com/p/manojprakashj">
+  <a href="https://tryhackme.com/p/manojprakashj" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" height="30" />
   </a>
-  <a href="https://www.linkedin.com/in/manojprakashj/">
+  <a href="https://www.linkedin.com/in/manojprakashj/" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
-  <a href="https://manojprakash.framer.website">
+  <a href="https://manojprakash.framer.website" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logoColor=white" height="30" />
   </a>
 </p>
