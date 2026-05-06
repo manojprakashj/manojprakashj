@@ -41,15 +41,3 @@
 `Python` `Bash` `PowerShell` `AWS (EC2, S3, IAM, Lambda, VPC)` `Azure (VMs, Blob, Azure AD)`
 
 ---
-
-### Certifications
-
-| Certification | Issuer | Status |
-|---|---|---|
-| CRTO | Zero-Point Security | March 2026 |
-| CEH | EC-Council | Valid to June 2027 |
-| CND | EC-Council | Valid to June 2027 |
-| eJPT | INE Security | Valid to Dec 2028 |
-| ICCA | INE Security | Valid to Nov 2028 |
-| OSCP | OffSec | Exam July 2026 |
-| CompTIA Security+ | CompTIA | Exam June 2026 |
