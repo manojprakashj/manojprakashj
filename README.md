@@ -1,63 +1,91 @@
+<h2 align="center">Manoj Prakash J</h2>
 
-<h2 align="center">Hi, I'm Manoj Prakash 👋</h2>
+<p align="center">Penetration Tester and SOC Analyst  |  MCA Information Security, JAIN University  |  Bangalore, India</p>
 
 <p align="center">
-  <b>Cybersecurity Student · Pentester-in-Training · Blue Teamer · CTF Player</b>
+  <img src="https://img.shields.io/badge/CRTO-c0392b?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/CEH-e67e22?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/CND-e67e22?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/eJPT-2980b9?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/ICCA-27ae60?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSCP-555555?style=flat-square&logoColor=white&label=Exam+July+2026" />
+  <img src="https://img.shields.io/badge/Security%2B-555555?style=flat-square&logoColor=white&label=Exam+June+2026" />
 </p>
 
 ---
 
-### About me
+### At a glance
 
-- 🔐 Passionate about offensive & defensive security
-- 🧠 Studying for **CRTO** and **ICCA (INE)** certifications
-- 🎯 Active CTF player — sharpening skills in web, pwn & forensics
-- 🛡️ Exploring SOC workflows, DFIR, and threat hunting
-- 🌱 Always learning, always breaking things (ethically)
-
----
-
-### 🛠️ Tools & Technologies
-
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+| Metric | Detail |
+|---|---|
+| Platform ranking | Top 1% globally on Hack The Box (#200) and TryHackMe (#2200) |
+| Labs completed | 700+ across HTB and THM over 3 years |
+| CTF | Pentathon 2025, 17 of 20 flags, 126th of 1,400 teams |
+| Experience | Cybersecurity Analyst Intern, ISAN Data Systems (Dec 2023 to Feb 2024) |
+| Education | MCA Information Security, JAIN University (expected June 2026) |
 
 ---
 
-### 📜 Certifications & Learning
+### Tools and technologies
 
-- 📜 **CRTO** — Certified Red Team Operator *(in progress)*
-- 📜 **ICCA** — INE Certified Cloud Associate *(in progress)*
-- 🎯 Targeting eJPT / OSCP on the road ahead
+**VAPT**
+`Burp Suite` `Nmap` `Nessus` `OpenVAS` `Nuclei` `SQLmap` `ffuf` `Gobuster` `Nikto`
+
+**Red team operations**
+`Cobalt Strike` `Sliver C2` `BloodHound` `Impacket` `Rubeus` `Mimikatz` `Ligolo-ng`
+
+**Blue team and SIEM**
+`Splunk` `Microsoft Sentinel` `Wazuh` `Suricata` `Sysmon` `Sigma Rules` `MISP` `OpenCTI` `Shuffle`
+
+**Scripting and cloud**
+`Python` `Bash` `PowerShell` `AWS (EC2, S3, IAM, Lambda, VPC)` `Azure (VMs, Blob, Azure AD)`
 
 ---
 
-### 🌐 Connect with me
+### Certifications
 
-<div align="center">
-  <a href="https://tryhackme.com/p/manojprakashj" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="TryHackMe" />
+| Certification | Issuer | Status |
+|---|---|---|
+| CRTO | Zero-Point Security | March 2026 |
+| CEH | EC-Council | Valid to June 2027 |
+| CND | EC-Council | Valid to June 2027 |
+| eJPT | INE Security | Valid to Dec 2028 |
+| ICCA | INE Security | Valid to Nov 2028 |
+| OSCP | OffSec | Exam July 2026 |
+| CompTIA Security+ | CompTIA | Exam June 2026 |
+
+---
+
+### Publications and conferences
+
+"A Unified DNS Sinkhole, IPS, Firewall, and Secure File Sharing with Centralized Log Correlation and Administration" — JETIR 2024, Paper ID: JETIR2401651
+
+"Generative Adversarial Networks for Proactive Threat Simulation and Detection" — TECHWORK 2025 Conference
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=manojprakashj&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojprakashj&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+### Profiles
+
+<p>
+  <a href="https://app.hackthebox.com/users/1740474">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FFF00?style=for-the-badge&logo=hackthebox&logoColor=black" height="30" />
   </a>
-  <a href="https://app.hackthebox.com/profile/YOUR_HTB_ID" target="_blank">
-    <img src="https://img.shields.io/badge/HackTheBox-9FFF00?style=for-the-badge&logo=hackthebox&logoColor=black" height="35" alt="Hack The Box" />
+  <a href="https://tryhackme.com/p/manojprakashj">
+    <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" height="30" />
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/manojprakashj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
   </a>
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&hide_border=true" />
-</div>
+  <a href="https://manojprakash.framer.website">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logoColor=white" height="30" />
+  </a>
+</p>
