@@ -1,4 +1,4 @@
-<h1 align="center">Manoj Prakash J</h1>
+<h2 align="center">Manoj Prakash J</h2>
 
 <p align="center">Penetration Tester and SOC Analyst </p>
 
@@ -10,21 +10,6 @@
   <img src="https://img.shields.io/badge/ICCA-27ae60?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/OSCP-555555?style=flat-square&logoColor=white&label=Exam+July+2026" />
   <img src="https://img.shields.io/badge/Security%2B-555555?style=flat-square&logoColor=white&label=Exam+June+2026" />
-</p>
-
-<p align="center">
-  <a href="https://app.hackthebox.com/users/1740474" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FFF00?style=for-the-badge&logo=hackthebox&logoColor=black" height="30" />
-  </a>
-  <a href="https://tryhackme.com/p/manojprakashj" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" height="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/manojprakashj/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
-  <a href="https://manojprakash.framer.website" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logoColor=white" height="30" />
-  </a>
 </p>
 
 ---
