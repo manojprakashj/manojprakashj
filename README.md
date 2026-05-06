@@ -12,6 +12,21 @@
   <img src="https://img.shields.io/badge/Security%2B-555555?style=flat-square&logoColor=white&label=Exam+June+2026" />
 </p>
 
+<p align="center">
+  <a href="https://app.hackthebox.com/users/1740474">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FFF00?style=for-the-badge&logo=hackthebox&logoColor=black" height="30" />
+  </a>
+  <a href="https://tryhackme.com/p/manojprakashj">
+    <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/manojprakashj/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+  </a>
+  <a href="https://manojprakash.framer.website">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logoColor=white" height="30" />
+  </a>
+</p>
+
 ---
 
 ### At a glance
@@ -53,39 +68,3 @@
 | ICCA | INE Security | Valid to Nov 2028 |
 | OSCP | OffSec | Exam July 2026 |
 | CompTIA Security+ | CompTIA | Exam June 2026 |
-
----
-
-### Publications and conferences
-
-"A Unified DNS Sinkhole, IPS, Firewall, and Secure File Sharing with Centralized Log Correlation and Administration" — JETIR 2024, Paper ID: JETIR2401651
-
-"Generative Adversarial Networks for Proactive Threat Simulation and Detection" — TECHWORK 2025 Conference
-
----
-
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojprakashj&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojprakashj&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-### Profiles
-
-<p>
-  <a href="https://app.hackthebox.com/users/1740474">
-    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FFF00?style=for-the-badge&logo=hackthebox&logoColor=black" height="30" />
-  </a>
-  <a href="https://tryhackme.com/p/manojprakashj">
-    <img src="https://img.shields.io/badge/TryHackMe-88cc14?style=for-the-badge&logo=tryhackme&logoColor=white" height="30" />
-  </a>
-  <a href="https://www.linkedin.com/in/manojprakashj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-  </a>
-  <a href="https://manojprakash.framer.website">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logoColor=white" height="30" />
-  </a>
-</p>
